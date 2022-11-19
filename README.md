@@ -12,3 +12,5 @@
 ```
 https://yoann-fermaud.students-laplateforme.io/
 ```
+## `Disclaimer`
+* Non-responsive smartphone version
